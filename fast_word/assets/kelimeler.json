@@ -1,0 +1,402 @@
+[
+    {
+        "English": "a",
+        "Turkish": "Bir"
+    },
+    {
+        "English": "about",
+        "Turkish": "hakkında,civarı"
+    },
+    {
+        "English": "all",
+        "Turkish": "bütün,tüm"
+    },
+    {
+        "English": "also",
+        "Turkish": "ayrıca,-da"
+    },
+    {
+        "English": "and",
+        "Turkish": "ve"
+    },
+    {
+        "English": "as",
+        "Turkish": "için,gibi"
+    },
+    {
+        "English": "at",
+        "Turkish": "-de,-da"
+    },
+    {
+        "English": "be",
+        "Turkish": "olmak"
+    },
+    {
+        "English": "because",
+        "Turkish": "çünkü"
+    },
+    {
+        "English": "but",
+        "Turkish": "fakat"
+    },
+    {
+        "English": "by",
+        "Turkish": "tarafından, yanında,ile"
+    },
+    {
+        "English": "can",
+        "Turkish": "-ebilmek"
+    },
+    {
+        "English": "come",
+        "Turkish": "gelmek"
+    },
+    {
+        "English": "could",
+        "Turkish": "-ebilir,-ebilirdi"
+    },
+    {
+        "English": "day",
+        "Turkish": "gün"
+    },
+    {
+        "English": "do",
+        "Turkish": "yapmak"
+    },
+    {
+        "English": "even",
+        "Turkish": "bile"
+    },
+    {
+        "English": "find",
+        "Turkish": "bulmak"
+    },
+    {
+        "English": "first",
+        "Turkish": "ilk"
+    },
+    {
+        "English": "for",
+        "Turkish": " için,çünkü"
+    },
+    {
+        "English": "from",
+        "Turkish": "-den,-dan"
+    },
+    {
+        "English": "get",
+        "Turkish": "elde etmek, edinmek, ulaşmak"
+    },
+    {
+        "English": "give",
+        "Turkish": "vermek"
+    },
+    {
+        "English": "go",
+        "Turkish": "gitmek"
+    },
+    {
+        "English": "have",
+        "Turkish": "sahip olmak"
+    },
+    {
+        "English": "he",
+        "Turkish": "o(erkek)"
+    },
+    {
+        "English": "her",
+        "Turkish": "onun,onu(kadın)"
+    },
+    {
+        "English": "here",
+        "Turkish": "burada"
+    },
+    {
+        "English": "him",
+        "Turkish": "onun(erkek)"
+    },
+    {
+        "English": "his",
+        "Turkish": "onun(erkek)"
+    },
+    {
+        "English": "how",
+        "Turkish": "nasıl"
+    },
+    {
+        "English": "I",
+        "Turkish": "ben"
+    },
+    {
+        "English": "if",
+        "Turkish": "eğer"
+    },
+    {
+        "English": "in",
+        "Turkish": "içinde"
+    },
+    {
+        "English": "into",
+        "Turkish": "içine"
+    },
+    {
+        "English": "it",
+        "Turkish": "o,onu(cansız varlık,hayvan)"
+    },
+    {
+        "English": "its",
+        "Turkish": "onun(cansız varlık,hayvan)"
+    },
+    {
+        "English": "just",
+        "Turkish": "henüz,sadece"
+    },
+    {
+        "English": "know",
+        "Turkish": "bilmek"
+    },
+    {
+        "English": "like",
+        "Turkish": "gibi,hoşlanmak"
+    },
+    {
+        "English": "look",
+        "Turkish": "bakmak, görünmek"
+    },
+    {
+        "English": "make",
+        "Turkish": "yapmak"
+    },
+    {
+        "English": "man",
+        "Turkish": "adam"
+    },
+    {
+        "English": "many",
+        "Turkish": "çoğu"
+    },
+    {
+        "English": "me",
+        "Turkish": "beni,bana"
+    },
+    {
+        "English": "more",
+        "Turkish": "daha çok"
+    },
+    {
+        "English": "my",
+        "Turkish": "benim"
+    },
+    {
+        "English": "new",
+        "Turkish": "yeni"
+    },
+    {
+        "English": "no",
+        "Turkish": "hayır"
+    },
+    {
+        "English": "not",
+        "Turkish": "değil,olumsuzluk eki"
+    },
+    {
+        "English": "now",
+        "Turkish": "şimdi"
+    },
+    {
+        "English": "of",
+        "Turkish": "-in,-ın"
+    },
+    {
+        "English": "on",
+        "Turkish": "üzerinde"
+    },
+    {
+        "English": "one",
+        "Turkish": "Bir"
+    },
+    {
+        "English": "only",
+        "Turkish": "sadece"
+    },
+    {
+        "English": "or",
+        "Turkish": "veya,ya da"
+    },
+    {
+        "English": "other",
+        "Turkish": "diğer"
+    },
+    {
+        "English": "our",
+        "Turkish": "bizim"
+    },
+    {
+        "English": "out",
+        "Turkish": "dışarı,dışarda"
+    },
+    {
+        "English": "people",
+        "Turkish": "insanlar"
+    },
+    {
+        "English": "say",
+        "Turkish": "söylemek"
+    },
+    {
+        "English": "see",
+        "Turkish": "görmek"
+    },
+    {
+        "English": "she",
+        "Turkish": "o(kadın)"
+    },
+    {
+        "English": "so",
+        "Turkish": "böylece,öyleyse"
+    },
+    {
+        "English": "some",
+        "Turkish": "bazı,biraz"
+    },
+    {
+        "English": "take",
+        "Turkish": "almak,görütmek,çekmek"
+    },
+    {
+        "English": "tell",
+        "Turkish": "söylemek"
+    },
+    {
+        "English": "than",
+        "Turkish": "- e göre, kıyasla"
+    },
+    {
+        "English": "that",
+        "Turkish": "o(uzaktaki)"
+    },
+    {
+        "English": "the",
+        "Turkish": "bir objeyi/kişiyi tanımlamak"
+    },
+    {
+        "English": "their",
+        "Turkish": "onların"
+    },
+    {
+        "English": "them           ",
+        "Turkish": " onları,onlara"
+    },
+    {
+        "English": "then",
+        "Turkish": "o zaman, ondan sonra"
+    },
+    {
+        "English": "there",
+        "Turkish": "orada"
+    },
+    {
+        "English": "these",
+        "Turkish": "bunlar(yakın)"
+    },
+    {
+        "English": "they",
+        "Turkish": "onlar"
+    },
+    {
+        "English": "thing",
+        "Turkish": "şey"
+    },
+    {
+        "English": "think",
+        "Turkish": "düşünmek"
+    },
+    {
+        "English": "this",
+        "Turkish": "bu(yakın)"
+    },
+    {
+        "English": "those",
+        "Turkish": "onlar(uzak)"
+    },
+    {
+        "English": "time",
+        "Turkish": "zaman,süre"
+    },
+    {
+        "English": "to",
+        "Turkish": " -e,-a"
+    },
+    {
+        "English": "two",
+        "Turkish": "iki"
+    },
+    {
+        "English": "up ",
+        "Turkish": "yukarı"
+    },
+    {
+        "English": "use ",
+        "Turkish": "kullanmak"
+    },
+    {
+        "English": "very",
+        "Turkish": "çok"
+    },
+    {
+        "English": "want",
+        "Turkish": "istemek"
+    },
+    {
+        "English": "way",
+        "Turkish": "yol"
+    },
+    {
+        "English": "we",
+        "Turkish": "biz"
+    },
+    {
+        "English": "well",
+        "Turkish": "iyi"
+    },
+    {
+        "English": "what",
+        "Turkish": "ne"
+    },
+    {
+        "English": "when",
+        "Turkish": "ne zaman"
+    },
+    {
+        "English": "which",
+        "Turkish": "hangi"
+    },
+    {
+        "English": "who",
+        "Turkish": "kim"
+    },
+    {
+        "English": "will",
+        "Turkish": "-ecek,-acak eki"
+    },
+    {
+        "English": "with",
+        "Turkish": "ile,birlikte"
+    },
+    {
+        "English": "would",
+        "Turkish": "- ecekti,-erdi"
+    },
+    {
+        "English": "year",
+        "Turkish": "yıl"
+    },
+    {
+        "English": "you",
+        "Turkish": "sen"
+    },
+    {
+        "English": "your",
+        "Turkish": "senin"
+    }
+]
